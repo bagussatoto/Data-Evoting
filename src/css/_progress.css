@@ -1,0 +1,3 @@
+progress {
+  @apply h-6 bg-blue-600 rounded-full overflow-hidden;
+}
