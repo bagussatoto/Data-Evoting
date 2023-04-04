@@ -38,7 +38,7 @@ Test via [Am I Responsive](http://ami.responsivedesign.is/)
 - [Evote Admin - Electronic Vote System]() -->
 
 ### How To Start
-- Clone this repository with this command <code>git clone https://github.com/bagussatoto/evote-admin.git</code>
+- Clone this repository with this command <code>git clone https://github.com/bagussatoto/Data-Evoting</code>
 - Then, use this command <code>cd evote-admin</code>
 - Install all dependencies <code>npm install</code>
 - Finally run the server <code>npm run dev</code>
